@@ -1,0 +1,10 @@
+remote_theme: jackw01/jackw01.github.io
+title: Modular Mounts
+hide_first_h1: true
+custom_buttons:
+  - 1:
+    url: https://github.com/jackw01/modular-mounts/archive/master.zip
+    text: Download STLs
+  - 2:
+    url: ./GoPro Profile Drawing.pdf
+    text: Download Dimension Drawing (PDF)
