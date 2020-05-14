@@ -10,30 +10,30 @@ STL files for all parts can be found in the `stls` folder. The original Solidwor
 ## Parts
 
 ### GoPro Tripod Mounts
-![](img/GoProTripodMountHorizontal.png)
-![](img/GoProTripodMountVertical.png)
+![](img/GoProTripodMountHorizontal.PNG)
+![](img/GoProTripodMountVertical.PNG)
 
 For attaching GoPro compatible mounts to a standard 1/4-20 screw mount
 
 ### GoPro Straight Link
-![](img/GoProStraightLink50mm.png)
+![](img/GoProStraightLink50mm.PNG)
 
 50mm long straight mount extension
 
 ### GoPro Direction Changers
-![](img/GoProDirectionChangerLink.png)
-![](img/GoProFlatDirectionChangerLink.png)
+![](img/GoProDirectionChangerLink.PNG)
+![](img/GoProFlatDirectionChangerLink.PNG)
 
 For making a mount that rotates around multiple axes
 
 ### GoPro Flat Mounts
-![](img/GoProFlatMountFemale.png)
-![](img/GoProFlatMountMale.png)
+![](img/GoProFlatMountFemale.PNG)
+![](img/GoProFlatMountMale.PNG)
 
 For use with VHB tape, Velcro, Dual Lock, etc
 
 ### GoPro Male Tripod Screw Adapter
-![](img/GoProMaleTripodScrewAdapter.png)
+![](img/GoProMaleTripodScrewAdapter.PNG)
 
 For attaching a device with a 1/4-20 threaded hole to GoPro compatible mounts
 
