@@ -37,11 +37,24 @@ For use with VHB tape, Velcro, Dual Lock, etc
 
 For attaching a device with a 1/4-20 threaded hole to GoPro compatible mounts
 
+### GoPro Screw Mounts
+
+![](img/GoProScrewMountFemale.PNG)
+![](img/GoProOffsetScrewMountFemale.PNG)
+
+For attaching GoPro compatible mounts to a surface with 2 screws 25mm apart
+
 ### GoPro Tube Mounts
 
-**Coming Soon.**
+![](img/GoProTubeMount.PNG)
 
-For clamping GoPro compatible mounts to round tubes or rods
+For attaching the GoPro screw mounts to round tubes (25 and 31.8mm)
+
+### GoPro Ziptie Mount
+
+![](img/GoProZiptieMountFemale.PNG)
+
+For attaching GoPro compatible mounts to a surface with zipties
 
 ### Phone Mount
 
