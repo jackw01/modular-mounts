@@ -5,7 +5,7 @@
 3D printable GoPro-compatible mounting accessories for cameras, phones, and more
 
 ### 3D Printing Notes
-STL files for all parts can be found in the `stls` folder. The original Solidworks design files can be found in the [GrabCAD folder for this project](https://workbench.grabcad.com/workbench/projects/gcnUv4yWleEZdF-MvPbkRW6ztajOTvjOf2FrRhKy1aaAlx#/space/gcRLR5dOVLxat1oCPV2CXJvUbPfd5Zgm9qYSkP6tpdQevQ). All parts should be printed at 100% infill with 3 or more perimeters.
+STL files for all parts can be found in the `stls` folder. The original Solidworks design files can be found in the [GrabCAD folder for this project](https://workbench.grabcad.com/workbench/projects/gcnUv4yWleEZdF-MvPbkRW6ztajOTvjOf2FrRhKy1aaAlx#/space/gcRLR5dOVLxat1oCPV2CXJvUbPfd5Zgm9qYSkP6tpdQevQ). All parts should be printed at 100% infill with 3 or more perimeters. All mounts are designed to be assembled with M5x20mm screws.
 
 ## Parts
 
@@ -48,7 +48,7 @@ For attaching GoPro compatible mounts to a surface with 2 screws 25mm apart
 
 ![](img/GoProTubeMount.PNG)
 
-For attaching the GoPro screw mounts to round tubes (25 and 31.8mm)
+For attaching the GoPro screw mounts to round tubes (25 and 31.8mm) - requires M3 screws and nuts
 
 ### GoPro Ziptie Mount
 
@@ -64,9 +64,11 @@ For using GoPro compatible mounts with an Arca-Swiss style quick release tripod 
 
 ### Phone Mount
 
-**Coming Soon.**
+![](img/PhoneClamp.PNG)
 
-For attaching a smartphone or similarly sized device to GoPro compatible mounts
+**Work in progress, STLs coming soon**
+
+For attaching a smartphone or similarly sized device to GoPro compatible mounts - requires M3x16 screw/nut and foam tape
 
 ## License
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
