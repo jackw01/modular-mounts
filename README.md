@@ -56,17 +56,17 @@ For attaching the GoPro screw mounts to round tubes (25 and 31.8mm)
 
 For attaching GoPro compatible mounts to a surface with zipties
 
+### Arca Quick Release Mount
+
+![](img/GoProArcaQuickReleasePlate.PNG)
+
+For using GoPro compatible mounts with an Arca-Swiss style quick release tripod head
+
 ### Phone Mount
 
 **Coming Soon.**
 
 For attaching a smartphone or similarly sized device to GoPro compatible mounts
-
-### Arca Quick Release Mount
-
-**Coming Soon.**
-
-For using GoPro compatible mounts with an Arca-Swiss style quick release tripod head
 
 ## License
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
