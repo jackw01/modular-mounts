@@ -66,8 +66,6 @@ For using GoPro compatible mounts with an Arca-Swiss style quick release tripod 
 
 ![](img/PhoneClamp.PNG)
 
-**Work in progress, STLs coming soon**
-
 For attaching a smartphone or similarly sized device to GoPro compatible mounts - requires M3x16 screw/nut and foam tape
 
 ## License
