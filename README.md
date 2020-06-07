@@ -2,12 +2,24 @@
 
 ![](img/modularmount-02.png)
 
-3D printable GoPro-compatible mounting accessories for cameras, phones, and more
+3D printable GoPro compatible mounting accessories for cameras, phones, and more
 
 ### 3D Printing Notes
 STL files for all parts can be found in the `stls` folder. The original Solidworks design files can be found in the [GrabCAD folder for this project](https://workbench.grabcad.com/workbench/projects/gcnUv4yWleEZdF-MvPbkRW6ztajOTvjOf2FrRhKy1aaAlx#/space/gcRLR5dOVLxat1oCPV2CXJvUbPfd5Zgm9qYSkP6tpdQevQ). All parts should be printed at 100% infill with 3 or more perimeters. All mounts are designed to be assembled with M5x20mm screws.
 
 ## Parts
+
+### Mini Folding Tripod
+
+![](img/MiniTripod.PNG)
+
+Folding tripod with GoPro compatible mount - requires 2x M5x12 screws/nuts
+
+### Phone Mount
+
+![](img/PhoneClamp.PNG)
+
+For attaching a smartphone or similarly sized device to GoPro compatible mounts - requires M3x16 screw/nut and foam tape
 
 ### GoPro Tripod Mounts
 ![](img/GoProTripodMountHorizontal.PNG)
@@ -61,12 +73,6 @@ For attaching GoPro compatible mounts to a surface with zipties
 ![](img/GoProArcaQuickReleasePlate.PNG)
 
 For using GoPro compatible mounts with an Arca-Swiss style quick release tripod head
-
-### Phone Mount
-
-![](img/PhoneClamp.PNG)
-
-For attaching a smartphone or similarly sized device to GoPro compatible mounts - requires M3x16 screw/nut and foam tape
 
 ## License
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
